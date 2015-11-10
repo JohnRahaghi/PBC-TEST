@@ -1,2 +1,2 @@
-# Policy-Dev-Process-
+# Policy-Development-Process-
 For testing purposes
