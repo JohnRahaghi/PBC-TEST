@@ -8,8 +8,8 @@ List and classify stakeholders that will be impacted by the policy or will have 
 	
 #####Outreach: Document the plan
 
-who on the team will reach out, dates of emails sent, phone calls made, when meetings are arranged, etc. An excel spreadsheet is helpful for both classifying stakeholders and logging outreach.
+Who on the team will reach out, dates of emails sent, phone calls made, when meetings are arranged, etc. An excel spreadsheet is helpful for both classifying stakeholders and logging outreach.
 	
 #####Conclusions of Outreach: Summarize the key takeaways after each meeting with stakeholders
-o	After stakeholder interviews are completed, summarize all the common responses related to problem ID, obstacles, recommendations, solutions, KPIs, or any other similarities. If there are few common threads, summarize the common themes, problem assessments, and potential solutions. These conclusions form the basis of evidence an evidence based approach as it relates to stakeholders.
-•	Summary of research into the problem: Create a 1-3 page document with relevant citations on the particular problem that is being researched – (potential sources: github, gartner, librarians, google scholar, Bloomberg…)
+After stakeholder interviews are completed, summarize all the common responses related to problem ID, obstacles, recommendations, solutions, KPIs, or any other similarities. If there are few common threads, summarize the common themes, problem assessments, and potential solutions. These conclusions form the basis of evidence an evidence based approach as it relates to stakeholders.
+Summary of research into the problem: Create a 1-3 page document with relevant citations on the particular problem that is being researched – (potential sources: github, gartner, librarians, google scholar, Bloomberg…)
