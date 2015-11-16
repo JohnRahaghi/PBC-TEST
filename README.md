@@ -1,2 +1,0 @@
-# PBC-TEST
-policy
