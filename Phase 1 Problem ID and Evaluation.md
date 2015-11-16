@@ -13,7 +13,7 @@ A one pager that answers the following questions in one or two paragraphs:
 
 •	How does it fit into OFCIO/individual team goals?
 
-•	What evidence is there to warrant such a policy and how was it gathered (data, meetings, etc)?
+•	What evidence is there to warrant such a policy, and how was it gathered (data, meetings, etc)?
 
 •	What policies, laws, or statutes exist that relate to the above issue?
 
