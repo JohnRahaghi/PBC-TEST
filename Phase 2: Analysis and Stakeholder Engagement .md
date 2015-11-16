@@ -2,7 +2,9 @@
 ### Instructions: This phase is intended to be highly iterative through stakeholder engagement to further refine the problem statement, scope, solutions, metrics, and timeline. The following deliverables will provide the basis for an evidence based approach to potential policy solutions.
 
 ####Specific Deliverables:
-#####Stakeholder Analysis: List and classify stakeholders that will be impacted by the policy or will have valuable input. (Consider internal OMB/Agency stakeholders and private sector groups and potential users as applicable. As information is gathered, update the Phase 1 problem ID as necessary.)
+#####Stakeholder Analysis:
+
+List and classify stakeholders that will be impacted by the policy or will have valuable input. (Consider internal OMB/Agency stakeholders and private sector groups and potential users as applicable. As information is gathered, update the Phase 1 problem ID as necessary.)
 	
 #####Outreach: Document the plan
 
