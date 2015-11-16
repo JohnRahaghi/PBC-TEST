@@ -9,7 +9,7 @@ A one pager that answers the following questions in one or two paragraphs:
 
 •	Define the problem 
 
-•	What will the proposed address?
+•	What will the proposed policy address?
 
 •	How does it fit into OFCIO/individual team goals?
 
