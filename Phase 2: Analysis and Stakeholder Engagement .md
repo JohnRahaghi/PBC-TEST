@@ -15,3 +15,5 @@ After stakeholder interviews are completed, summarize all the common responses r
 #####Summary of research into the problem: 
 
 Create a 1-3 page document with relevant citations on the particular problem that is being researched – (potential sources: github, gartner, librarians, google scholar, Bloomberg…)
+
+Example Deliverables can be found in: G/PBC Unit/Policy Development Process/Phase 2 Stakeholder Engagement
